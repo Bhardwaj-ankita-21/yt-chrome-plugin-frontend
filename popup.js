@@ -139,7 +139,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             bgColor = 'lightgreen'; // Positive sentiment
             sentimentLabel = "Positive";
           } else if (sentimentValue === -1) {
-            bgColor = 'lightred'; // Negative sentiment
+            bgColor = 'red'; // Negative sentiment
             sentimentLabel = "Negative";
           } else {
             bgColor = 'grey'; // Neutral sentiment
@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             // Append the Download Insights button at the end
             outputDiv.innerHTML += `
             <div style="text-align: center; margin-top: 20px;">
-              <button id="download-btn" style="padding: 10px 20px; background-color:rgb(239, 15, 15); color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+              <button id="download-btn" style="padding: 10px 20px; background-color:rgb(243, 55, 55); color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;font-weight: bold;">
               <span>&#128229;</span>Download Insights
               </button>
             </div>

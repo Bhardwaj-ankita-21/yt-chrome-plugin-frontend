@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "YouTube Comment Insighter",
     "version": "1.0",
-    "description": "Analyzes YouTube video comments for sentiment.",
+    "description": "Gain deep insights into YouTube video comments with YouTube Comment Analyzer! This powerful extension analyzes comment sentiment, identifies trends, and provides meaningful metrics to help you understand audience reactions.",
     "action": {
       "default_popup": "popup.html"
     },
