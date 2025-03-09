@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "YouTube Comment Insight",
+    "name": "YouTube Comment Insighter",
     "version": "1.0",
     "description": "Analyzes YouTube video comments for sentiment.",
     "action": {
