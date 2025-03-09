@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube Comment Insight",
+  "name": "YouTube Comment Analyzer",
   "version": "1.0",
   "description": "Gain deep insights into YouTube video comments with YouTube Comment Analyzer! This powerful extension analyzes comment sentiment, identifies trends, and provides meaningful metrics to help you understand audience reactions.",
   "icons": {
